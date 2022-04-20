@@ -1,6 +1,6 @@
 # so_long
-Small 2D game
-<img src="https://github.com/Alexart1995/ZigZagGame/blob/main/Game.gif" width="400" height="250">
+Small 2D game <br>
+<img src="https://github.com/Alexart1995/so_long/blob/master/so_long.gif" width="400" height="250">
 ## Make commands
 `make` to compile mandatory part.
 `make bonus` to compile with bonuses(enemies and animation).
