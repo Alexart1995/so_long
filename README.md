@@ -1,6 +1,6 @@
 # so_long
 Small 2D game <br>
-<img src="https://github.com/Alexart1995/so_long/blob/master/so_long.gif" width="400" height="400">
+<img src="https://github.com/Alexart1995/so_long/blob/master/so_long.gif" width="600" height="400">
 ## Make commands
 `make` to compile mandatory part. <br>
 `make bonus` to compile with bonuses(enemies and animation). <br>
