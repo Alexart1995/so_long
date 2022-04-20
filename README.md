@@ -1,12 +1,12 @@
 # so_long
 Small 2D game <br>
-<img src="https://github.com/Alexart1995/so_long/blob/master/so_long.gif" width="400" height="250">
+<img src="https://github.com/Alexart1995/so_long/blob/master/so_long.gif" width="400" height="400">
 ## Make commands
-`make` to compile mandatory part.
-`make bonus` to compile with bonuses(enemies and animation).
-`make clean` to clean all object files of libft.
-`make fclean` to remove executable files.
-`make re` to recompile this project.
+`make` to compile mandatory part. <br>
+`make bonus` to compile with bonuses(enemies and animation). <br>
+`make clean` to clean all object files of libft. <br>
+`make fclean` to remove executable files. <br>
+`make re` to recompile this project. <br>
 ## Usage
 To launch the game without enemies and animations you need to compile the project, then run the executable file and specify the map.
 ```
