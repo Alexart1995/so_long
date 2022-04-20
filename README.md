@@ -18,6 +18,12 @@ To launch the game with enemies and animations you need to compile the project, 
 make bonus
 ./so_long maps/valid_bonus.ber
 ```
+## Control 
+`W` move up <br>
+`S` move down <br>
+`A` move left <br>
+`D` move right <br>
+
 ## Characters of map
 `0` for an empty space <br>
 `1` for a wall <br>
